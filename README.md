@@ -3,7 +3,7 @@ Simple Ionic Todo App
 
 ----------new-task.html----------
 
-<!-- script id="new-task.html" type="text/ng-template">
+ 
 
   <div class="modal">
 
@@ -31,7 +31,7 @@ Simple Ionic Todo App
 
   </div>
 
-</script> -->
+ 
 
 
 ----------ToDoController-Content-----------
