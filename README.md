@@ -3,17 +3,17 @@ Simple Ionic Todo App
 
 ----------new-task.html----------
 
-<script id="new-task.html" type="text/ng-template">
+<!-- <script id="new-task.html" type="text/ng-template">
 
   <div class="modal">
 
-    <!-- Modal header bar -->
+    
     <ion-header-bar class="bar-secondary">
       <h1 class="title">New Task</h1>
       <button class="button button-clear button-positive" ng-click="closeNewTask()">Cancel</button>
     </ion-header-bar>
 
-    <!-- Modal content area -->
+    
     <ion-content>
 
       <form ng-submit="createTask(task)">
@@ -31,7 +31,7 @@ Simple Ionic Todo App
 
   </div>
 
-</script>
+</script> -->
 
 
 ----------ToDoController---------Content-----------
