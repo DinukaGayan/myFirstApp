@@ -1,5 +1,5 @@
 # myFirstApp
-Sample Ionic Todo App
+Simple Ionic Todo App
 
 ----------new-task.html----------
 
