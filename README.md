@@ -34,7 +34,7 @@ Simple Ionic Todo App
 </script> -->
 
 
-----------ToDoController---------Content-----------
+----------ToDoController-Content-----------
 
 
 
